@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Juan Sebastián Betancourt 👋
 
-<!--
-**Betancourts/Betancourts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendiz SENA del **Tecnólogo en Desarrollo de Software** (etapa lectiva) y Técnico en Programación de Software.
+Vivo en El Agrado, Huila (Colombia) y busco **empresa patrocinadora para contrato de aprendizaje**, preferiblemente remoto.
 
-Here are some ideas to get you started:
+### Tecnologías
+HTML · CSS · JavaScript · Bootstrap · MySQL · PHP (básico) · Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos destacados
+- **[CuentaClaro](https://cuentaclaralaboral.com)**: sitio web publicado con calculadoras laborales para Colombia (liquidación, prima, cesantías, horas extra).
+- **[Finally_page_Math](https://github.com/Betancourts/Finally_page_Math)**: página con ejercicios prácticos en JavaScript.
+- **[Proyecto-Html](https://github.com/Betancourts/Proyecto-Html)**: proyecto final de HTML y CSS del programa ADSO.
+
+### Contacto
+📧 juansebastianbetancourtcabrera@gmail.com
